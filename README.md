@@ -1,3 +1,3 @@
-# GA-Exam-Scheduler
+# Exam-Schedule-Generator
 
 From scratch implementation.
